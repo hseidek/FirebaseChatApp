@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338568832170",
+    "project_id": "social-application-29023",
+    "storage_bucket": "social-application-29023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338568832170:android:1bb2c6ea234b3415d2dcd3",
+        "android_client_info": {
+          "package_name": "app.hseidek.social_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338568832170-i1bfjnb3tu3mrsrk1tp8c5jogkjnep8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdRyys7yujU9RV12HrB74HEHhbwbWOww4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338568832170-i1bfjnb3tu3mrsrk1tp8c5jogkjnep8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
